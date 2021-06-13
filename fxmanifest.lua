@@ -1,8 +1,8 @@
-fx_version 'bodacious' 
+fx_version 'cerulean' 
 game 'gta5' 
 
 description 'Seat Switcher'
-version '1.0.0'
-author 'GoatGeek152 (https://github.com/EvanDarwin)'
+version '1.1.0'
+author 'GoatGeek (https://github.com/GoatG33k)'
 
 client_script 'client.lua'
