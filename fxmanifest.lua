@@ -1,5 +1,5 @@
-fx_version 'cerulean' 
-game 'gta5' 
+fx_version 'cerulean'
+game 'gta5'
 
 description 'Seat Switcher'
 version '1.1.0'
